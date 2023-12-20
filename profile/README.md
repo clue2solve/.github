@@ -1,5 +1,5 @@
 ## Hi there 👋
-# [Clue2Solve](clue2solve.io)
+# [Clue2Solve](http://clue2solve.io)
 
 This is a Organization where you can find Developer focused tooling and Libraries. 
 
