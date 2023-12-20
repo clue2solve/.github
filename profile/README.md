@@ -11,8 +11,8 @@ Join our [Discord](https://discord.gg/aqmccnx4) group to discuss these repositor
 Enjoy Developing and Building Apps. 
 
 Core Contributors: 
-- Anand Rao
-- Christopher Phillipson
+- [Anand Rao](https://github.com/honnuanand)
+- [Christopher Phillipson](https://github.com/pacphi)
 
 ( I encourage you to contribute and I will for sure list your name here :) ) - Anand 
 
