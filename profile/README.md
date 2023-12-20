@@ -1,13 +1,21 @@
 ## Hi there 👋
 # [Clue2Solve](http://clue2solve.io)
 
-This is a Organization where you can find Developer focused tooling and Libraries. 
+This is an Organization where you can find developer-focused tooling and Libraries. 
 
-More Information will be updated here and the Website linked above soon. 
+More Information will be updated here and on the Website linked above soon. 
 
 We welcome contributions to the Repos via PRs. We also encourage you to use the tools and Libs and tell us what additional features in these tools and libs you would like to see. 
 
+Join our [Discord](https://discord.gg/aqmccnx4) group to discuss these repositories or related topics. 
 Enjoy Developing and Building Apps. 
+
+Core Contributors: 
+- Anand Rao
+- Christopher Phillipson
+
+( I encourage you to contribute and I will for sure list your name here :) ) - Anand 
+
 
 <!--
 
